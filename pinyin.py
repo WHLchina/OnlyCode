@@ -102,4 +102,4 @@ def get_pinyin(ustring, shouzimu=False, duoyinzi=False):
 def debug():
     """测试"""
     print(get_words_first_letter("欢迎使用拼音模块").upper())
-
+    print("222222222222")
